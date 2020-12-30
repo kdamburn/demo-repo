@@ -1,2 +1,2 @@
 # Demo
-A git introduction
+A git introduction... of sorts
